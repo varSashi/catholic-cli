@@ -1,0 +1,502 @@
+[
+  {
+    "id": 1,
+    "saint": "Saint Augustine",
+    "quote": "Our hearts are restless until they rest in God."
+  },
+  {
+    "id": 2,
+    "saint": "Saint Thomas Aquinas",
+    "quote": "To love is to will the good of another."
+  },
+  {
+    "id": 3,
+    "saint": "Saint Francis of Assisi",
+    "quote": "Start by doing what is necessary, then what is possible."
+  },
+  {
+    "id": 4,
+    "saint": "Saint Teresa of Avila",
+    "quote": "Patience obtains all things."
+  },
+  {
+    "id": 5,
+    "saint": "Saint John Paul II",
+    "quote": "Do not be afraid."
+  },
+  {
+    "id": 6,
+    "saint": "Saint Padre Pio",
+    "quote": "Pray, hope, and do not worry."
+  },
+  {
+    "id": 7,
+    "saint": "Saint Therese of Lisieux",
+    "quote": "Holiness is found in small acts of love."
+  },
+  {
+    "id": 8,
+    "saint": "Saint Ignatius of Loyola",
+    "quote": "Go forth and set the world on fire."
+  },
+  {
+    "id": 9,
+    "saint": "Saint Catherine of Siena",
+    "quote": "Be who God meant you to be."
+  },
+  {
+    "id": 10,
+    "saint": "Saint Benedict",
+    "quote": "Listen carefully with the ear of your heart."
+  },
+  {
+    "id": 11,
+    "saint": "Saint Augustine",
+    "quote": "Our hearts are restless until they rest in God."
+  },
+  {
+    "id": 12,
+    "saint": "Saint Thomas Aquinas",
+    "quote": "To love is to will the good of another."
+  },
+  {
+    "id": 13,
+    "saint": "Saint Francis of Assisi",
+    "quote": "Start by doing what is necessary, then what is possible."
+  },
+  {
+    "id": 14,
+    "saint": "Saint Teresa of Avila",
+    "quote": "Patience obtains all things."
+  },
+  {
+    "id": 15,
+    "saint": "Saint John Paul II",
+    "quote": "Do not be afraid."
+  },
+  {
+    "id": 16,
+    "saint": "Saint Padre Pio",
+    "quote": "Pray, hope, and do not worry."
+  },
+  {
+    "id": 17,
+    "saint": "Saint Therese of Lisieux",
+    "quote": "Holiness is found in small acts of love."
+  },
+  {
+    "id": 18,
+    "saint": "Saint Ignatius of Loyola",
+    "quote": "Go forth and set the world on fire."
+  },
+  {
+    "id": 19,
+    "saint": "Saint Catherine of Siena",
+    "quote": "Be who God meant you to be."
+  },
+  {
+    "id": 20,
+    "saint": "Saint Benedict",
+    "quote": "Listen carefully with the ear of your heart."
+  },
+  {
+    "id": 21,
+    "saint": "Saint Augustine",
+    "quote": "Our hearts are restless until they rest in God."
+  },
+  {
+    "id": 22,
+    "saint": "Saint Thomas Aquinas",
+    "quote": "To love is to will the good of another."
+  },
+  {
+    "id": 23,
+    "saint": "Saint Francis of Assisi",
+    "quote": "Start by doing what is necessary, then what is possible."
+  },
+  {
+    "id": 24,
+    "saint": "Saint Teresa of Avila",
+    "quote": "Patience obtains all things."
+  },
+  {
+    "id": 25,
+    "saint": "Saint John Paul II",
+    "quote": "Do not be afraid."
+  },
+  {
+    "id": 26,
+    "saint": "Saint Padre Pio",
+    "quote": "Pray, hope, and do not worry."
+  },
+  {
+    "id": 27,
+    "saint": "Saint Therese of Lisieux",
+    "quote": "Holiness is found in small acts of love."
+  },
+  {
+    "id": 28,
+    "saint": "Saint Ignatius of Loyola",
+    "quote": "Go forth and set the world on fire."
+  },
+  {
+    "id": 29,
+    "saint": "Saint Catherine of Siena",
+    "quote": "Be who God meant you to be."
+  },
+  {
+    "id": 30,
+    "saint": "Saint Benedict",
+    "quote": "Listen carefully with the ear of your heart."
+  },
+  {
+    "id": 31,
+    "saint": "Saint Augustine",
+    "quote": "Our hearts are restless until they rest in God."
+  },
+  {
+    "id": 32,
+    "saint": "Saint Thomas Aquinas",
+    "quote": "To love is to will the good of another."
+  },
+  {
+    "id": 33,
+    "saint": "Saint Francis of Assisi",
+    "quote": "Start by doing what is necessary, then what is possible."
+  },
+  {
+    "id": 34,
+    "saint": "Saint Teresa of Avila",
+    "quote": "Patience obtains all things."
+  },
+  {
+    "id": 35,
+    "saint": "Saint John Paul II",
+    "quote": "Do not be afraid."
+  },
+  {
+    "id": 36,
+    "saint": "Saint Padre Pio",
+    "quote": "Pray, hope, and do not worry."
+  },
+  {
+    "id": 37,
+    "saint": "Saint Therese of Lisieux",
+    "quote": "Holiness is found in small acts of love."
+  },
+  {
+    "id": 38,
+    "saint": "Saint Ignatius of Loyola",
+    "quote": "Go forth and set the world on fire."
+  },
+  {
+    "id": 39,
+    "saint": "Saint Catherine of Siena",
+    "quote": "Be who God meant you to be."
+  },
+  {
+    "id": 40,
+    "saint": "Saint Benedict",
+    "quote": "Listen carefully with the ear of your heart."
+  },
+  {
+    "id": 41,
+    "saint": "Saint Augustine",
+    "quote": "Our hearts are restless until they rest in God."
+  },
+  {
+    "id": 42,
+    "saint": "Saint Thomas Aquinas",
+    "quote": "To love is to will the good of another."
+  },
+  {
+    "id": 43,
+    "saint": "Saint Francis of Assisi",
+    "quote": "Start by doing what is necessary, then what is possible."
+  },
+  {
+    "id": 44,
+    "saint": "Saint Teresa of Avila",
+    "quote": "Patience obtains all things."
+  },
+  {
+    "id": 45,
+    "saint": "Saint John Paul II",
+    "quote": "Do not be afraid."
+  },
+  {
+    "id": 46,
+    "saint": "Saint Padre Pio",
+    "quote": "Pray, hope, and do not worry."
+  },
+  {
+    "id": 47,
+    "saint": "Saint Therese of Lisieux",
+    "quote": "Holiness is found in small acts of love."
+  },
+  {
+    "id": 48,
+    "saint": "Saint Ignatius of Loyola",
+    "quote": "Go forth and set the world on fire."
+  },
+  {
+    "id": 49,
+    "saint": "Saint Catherine of Siena",
+    "quote": "Be who God meant you to be."
+  },
+  {
+    "id": 50,
+    "saint": "Saint Benedict",
+    "quote": "Listen carefully with the ear of your heart."
+  },
+  {
+    "id": 51,
+    "saint": "Saint Augustine",
+    "quote": "Our hearts are restless until they rest in God."
+  },
+  {
+    "id": 52,
+    "saint": "Saint Thomas Aquinas",
+    "quote": "To love is to will the good of another."
+  },
+  {
+    "id": 53,
+    "saint": "Saint Francis of Assisi",
+    "quote": "Start by doing what is necessary, then what is possible."
+  },
+  {
+    "id": 54,
+    "saint": "Saint Teresa of Avila",
+    "quote": "Patience obtains all things."
+  },
+  {
+    "id": 55,
+    "saint": "Saint John Paul II",
+    "quote": "Do not be afraid."
+  },
+  {
+    "id": 56,
+    "saint": "Saint Padre Pio",
+    "quote": "Pray, hope, and do not worry."
+  },
+  {
+    "id": 57,
+    "saint": "Saint Therese of Lisieux",
+    "quote": "Holiness is found in small acts of love."
+  },
+  {
+    "id": 58,
+    "saint": "Saint Ignatius of Loyola",
+    "quote": "Go forth and set the world on fire."
+  },
+  {
+    "id": 59,
+    "saint": "Saint Catherine of Siena",
+    "quote": "Be who God meant you to be."
+  },
+  {
+    "id": 60,
+    "saint": "Saint Benedict",
+    "quote": "Listen carefully with the ear of your heart."
+  },
+  {
+    "id": 61,
+    "saint": "Saint Augustine",
+    "quote": "Our hearts are restless until they rest in God."
+  },
+  {
+    "id": 62,
+    "saint": "Saint Thomas Aquinas",
+    "quote": "To love is to will the good of another."
+  },
+  {
+    "id": 63,
+    "saint": "Saint Francis of Assisi",
+    "quote": "Start by doing what is necessary, then what is possible."
+  },
+  {
+    "id": 64,
+    "saint": "Saint Teresa of Avila",
+    "quote": "Patience obtains all things."
+  },
+  {
+    "id": 65,
+    "saint": "Saint John Paul II",
+    "quote": "Do not be afraid."
+  },
+  {
+    "id": 66,
+    "saint": "Saint Padre Pio",
+    "quote": "Pray, hope, and do not worry."
+  },
+  {
+    "id": 67,
+    "saint": "Saint Therese of Lisieux",
+    "quote": "Holiness is found in small acts of love."
+  },
+  {
+    "id": 68,
+    "saint": "Saint Ignatius of Loyola",
+    "quote": "Go forth and set the world on fire."
+  },
+  {
+    "id": 69,
+    "saint": "Saint Catherine of Siena",
+    "quote": "Be who God meant you to be."
+  },
+  {
+    "id": 70,
+    "saint": "Saint Benedict",
+    "quote": "Listen carefully with the ear of your heart."
+  },
+  {
+    "id": 71,
+    "saint": "Saint Augustine",
+    "quote": "Our hearts are restless until they rest in God."
+  },
+  {
+    "id": 72,
+    "saint": "Saint Thomas Aquinas",
+    "quote": "To love is to will the good of another."
+  },
+  {
+    "id": 73,
+    "saint": "Saint Francis of Assisi",
+    "quote": "Start by doing what is necessary, then what is possible."
+  },
+  {
+    "id": 74,
+    "saint": "Saint Teresa of Avila",
+    "quote": "Patience obtains all things."
+  },
+  {
+    "id": 75,
+    "saint": "Saint John Paul II",
+    "quote": "Do not be afraid."
+  },
+  {
+    "id": 76,
+    "saint": "Saint Padre Pio",
+    "quote": "Pray, hope, and do not worry."
+  },
+  {
+    "id": 77,
+    "saint": "Saint Therese of Lisieux",
+    "quote": "Holiness is found in small acts of love."
+  },
+  {
+    "id": 78,
+    "saint": "Saint Ignatius of Loyola",
+    "quote": "Go forth and set the world on fire."
+  },
+  {
+    "id": 79,
+    "saint": "Saint Catherine of Siena",
+    "quote": "Be who God meant you to be."
+  },
+  {
+    "id": 80,
+    "saint": "Saint Benedict",
+    "quote": "Listen carefully with the ear of your heart."
+  },
+  {
+    "id": 81,
+    "saint": "Saint Augustine",
+    "quote": "Our hearts are restless until they rest in God."
+  },
+  {
+    "id": 82,
+    "saint": "Saint Thomas Aquinas",
+    "quote": "To love is to will the good of another."
+  },
+  {
+    "id": 83,
+    "saint": "Saint Francis of Assisi",
+    "quote": "Start by doing what is necessary, then what is possible."
+  },
+  {
+    "id": 84,
+    "saint": "Saint Teresa of Avila",
+    "quote": "Patience obtains all things."
+  },
+  {
+    "id": 85,
+    "saint": "Saint John Paul II",
+    "quote": "Do not be afraid."
+  },
+  {
+    "id": 86,
+    "saint": "Saint Padre Pio",
+    "quote": "Pray, hope, and do not worry."
+  },
+  {
+    "id": 87,
+    "saint": "Saint Therese of Lisieux",
+    "quote": "Holiness is found in small acts of love."
+  },
+  {
+    "id": 88,
+    "saint": "Saint Ignatius of Loyola",
+    "quote": "Go forth and set the world on fire."
+  },
+  {
+    "id": 89,
+    "saint": "Saint Catherine of Siena",
+    "quote": "Be who God meant you to be."
+  },
+  {
+    "id": 90,
+    "saint": "Saint Benedict",
+    "quote": "Listen carefully with the ear of your heart."
+  },
+  {
+    "id": 91,
+    "saint": "Saint Augustine",
+    "quote": "Our hearts are restless until they rest in God."
+  },
+  {
+    "id": 92,
+    "saint": "Saint Thomas Aquinas",
+    "quote": "To love is to will the good of another."
+  },
+  {
+    "id": 93,
+    "saint": "Saint Francis of Assisi",
+    "quote": "Start by doing what is necessary, then what is possible."
+  },
+  {
+    "id": 94,
+    "saint": "Saint Teresa of Avila",
+    "quote": "Patience obtains all things."
+  },
+  {
+    "id": 95,
+    "saint": "Saint John Paul II",
+    "quote": "Do not be afraid."
+  },
+  {
+    "id": 96,
+    "saint": "Saint Padre Pio",
+    "quote": "Pray, hope, and do not worry."
+  },
+  {
+    "id": 97,
+    "saint": "Saint Therese of Lisieux",
+    "quote": "Holiness is found in small acts of love."
+  },
+  {
+    "id": 98,
+    "saint": "Saint Ignatius of Loyola",
+    "quote": "Go forth and set the world on fire."
+  },
+  {
+    "id": 99,
+    "saint": "Saint Catherine of Siena",
+    "quote": "Be who God meant you to be."
+  },
+  {
+    "id": 100,
+    "saint": "Saint Benedict",
+    "quote": "Listen carefully with the ear of your heart."
+  }
+]
